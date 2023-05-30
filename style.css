@@ -19,6 +19,20 @@
 .landpage{
     background-image: linear-gradient(rgb(33, 77, 189), rgb(158, 17, 174));
 }
+ion-icon{
+    margin-top: 50%;
+    margin-bottom: 10%;
+    text-align: center;
+
+}
+.music{
+    margin-top: 5%;
+    border: 2px solid rgb(93, 88, 88,0.5);
+  justify-content: space-around;
+  margin-left: 5%;
+  border-radius: 20px;
+   
+}
 #product{
     display: grid;
     grid-template-columns: repeat(4,1fr);
