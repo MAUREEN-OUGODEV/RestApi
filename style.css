@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.narbar{
+   height: 100px; 
+   padding-left: 20%;
+   font-size: 25px;
+}
+.nav-link a{
+    color: aliceblue;
+}
+.done{
+    text-align: center;
+}
+.paragraph{
+    margin-top: 5%;
+}
+.landpage{
+    background-image: linear-gradient(rgb(189, 33, 186), rgb(30, 17, 174));
+}
+#ad{
+    color: yellow;
+}
+.endpage{
+    background-color: rgb(35, 33, 33);
+    color: aliceblue;
+    padding-top: 5%;
+}
+.footer{
+    margin-left: 3%;
+   
+}
+
+.footer ul{
+
+list-style: none;   
+}
