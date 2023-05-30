@@ -3,19 +3,31 @@
     padding: 0%;
     overflow-x: hidden;
 }
+#ad{
+
+}
 .narbar{
    height: 100px; 
    padding-left: 20%;
-   font-size: 25px;
+   font-size: 15px;
+   color: aliceblue;
 }
-.nav-link a{
+
+#vab{
     color: aliceblue;
+   
+  
 }
 .done{
     text-align: center;
 }
 .paragraph{
     margin-top: 5%;
+}
+.headings{
+    padding-top: 5%;
+    padding-left: 2%;
+    color: aliceblue;
 }
 .landpage{
     background-image: linear-gradient(rgb(33, 77, 189), rgb(158, 17, 174));
@@ -74,11 +86,17 @@ border-radius: 20px;
 }
 #ad{
     color: yellow;
+    
+}
+#brand{
+    color: aliceblue;
+    font-size: 30px;
 }
 .game{
     background-image: linear-gradient(rgb(33, 77, 189), rgb(158, 17, 174));
     margin-top: 10%;
     margin-bottom:5% ;
+
   
     
 }
