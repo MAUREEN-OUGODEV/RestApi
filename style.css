@@ -17,7 +17,24 @@
     margin-top: 5%;
 }
 .landpage{
-    background-image: linear-gradient(rgb(189, 33, 186), rgb(30, 17, 174));
+    background-image: linear-gradient(rgb(33, 77, 189), rgb(158, 17, 174));
+}
+#product{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+ 
+    margin-left: 10%;
+
+}
+#product img{
+height: 250px;
+width: 250px;
+margin-top: 10%;
+border-radius: 20px;
+}
+#product h2{
+    font-size: 20px;
+    text-align: center;
 }
 #ad{
     color: yellow;
