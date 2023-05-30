@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    overflow-x: hidden;
 }
 .narbar{
    height: 100px; 
@@ -19,12 +20,33 @@
 .landpage{
     background-image: linear-gradient(rgb(33, 77, 189), rgb(158, 17, 174));
 }
+.phone{
+    margin-left: 10%;
+}
 ion-icon{
     margin-top: 50%;
     margin-bottom: 10%;
     text-align: center;
 
 }
+.gin{
+    display: flex;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+    
+    
+}
+.offer{
+    font-weight: lighter;
+    font-size: 25px;
+}
+.min{
+    background-color: black;
+    color: yellow;
+}
+
 .music{
     margin-top: 5%;
     border: 2px solid rgb(93, 88, 88,0.5);
@@ -53,6 +75,36 @@ border-radius: 20px;
 #ad{
     color: yellow;
 }
+.game{
+    background-image: linear-gradient(rgb(33, 77, 189), rgb(158, 17, 174));
+    margin-top: 10%;
+    margin-bottom:5% ;
+  
+    
+}
+.next{
+    padding-top: 5%;
+    padding-left: 5%;
+    color: aliceblue;
+
+}
+.off{
+    color: yellow;
+}
+.images img{
+    margin-bottom: 10%;
+    height: 400px;
+    background-color: rgb(208, 195, 195);
+    border-radius: 20px;
+
+}
+ .btnProduct{
+    background-color: yellow;
+    padding: 10px;
+    border: none;
+    float: right;
+    margin-right: 15%;
+ }
 .endpage{
     background-color: rgb(35, 33, 33);
     color: aliceblue;

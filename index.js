@@ -11,8 +11,8 @@ function generateProductCards(data) {
               <h2>${product.title}</h2>
               <div class='productPrice'>
               <p>${product.price}</p>
-              <button>ADD TO CART</button>
-              </div>
+              <button class=btnProduct>ADD TO CART</button>
+              </div> 
           `;
       // append the card to the product container
       productContainer.appendChild(card);
